@@ -1,0 +1,45 @@
+Query richieste: (dalla terza in poi c'è anche il risultato che vi deve dare)
+-- 1
+stampare nome, cognome, età di tutti i clienti
+
+-- 2
+stampare i nomi di tutti i film proiettati in questo cinema
+
+-- 3, 3 risultati
+stampare i nomi di tutt i film con il prezzo base non più di 8 euro
+
+-- 4, 1 solo
+stampare tutti i film che sono stati proiettati ad agosto la mattina
+
+-- 5, 5 risultati
+stampare i nomi di tutti gli spettatori minorenni
+
+-- 6, prezzo 6.5
+stampare prezzo medio di film che si proiettano la mattina
+
+-- 7, 3 sale, 410 posti, 136 posti medi
+totale sale, totale posti nel cinema, media di posti per ogni sala
+
+-- 8
+stampare il nome del film e il nome della sala per tutte le proiezioni
+
+-- 9, 81 risultati normali, 38 gruppati
+stampare nome di tutti i clienti che hanno acquistato biglietto con poltrone
+premium
+
+-- 10, 3 elemental
+stampare i nomi di tutti i film che sono stati proiettati a luglio in sala red
+
+-- 11, mattina 42, pomeriggio 36, sera 39
+stampare l'età media di spettatori per ogni fascia oraria
+
+-- 12, 3 mattina, 10 pomeriggio, 6 sera
+stampare il numero complessivo di spettatori minorenni raggrupati per fascia
+oraria di proiezioni
+
+-- 13,
+-- red 14 luglio, 15 euro
+-- red 13 luglio, 13 euro
+-- red 13 luglio, 11 euro
+stampare prezzo totale del biglietto,nome sala, data proiezione per il film
+"elemental" la sera + con poltrona premium
