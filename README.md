@@ -7,7 +7,8 @@ PARTE SQL
 2)Eseguirlo
 3)Vi ha creato 4 tabelle già riempite
 4)Analizzarle e vedere come è fatto il db
-5)Trovate nella cartella principale del progetto un file chiamato query.txt, con le richieste,
-    mettere direttamente li dentro le query
+5)Trovate nella cartella principale del progetto un file chiamato query.txt, con le richieste,    mettere direttamente li dentro le query
 
-Q
+!IMPORTANTE!
+Finito il progetto, COMPRIMETE tutta la cartella, rinominatela con
+il vostro nome e cognome e inviatela nel canale "consegna-test"
